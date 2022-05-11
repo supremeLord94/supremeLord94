@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supremeLord94 or you can call me Noah
+- 👋 Hi, I’m Noah Pedraza
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on web development projects that
